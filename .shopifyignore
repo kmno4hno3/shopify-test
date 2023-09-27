@@ -1,0 +1,7 @@
+.vscode/
+.gitignore
+.prettierrc
+.shopifyignore
+package-lock.json
+package.json
+.husky/
